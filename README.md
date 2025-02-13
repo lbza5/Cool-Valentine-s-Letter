@@ -10,9 +10,13 @@ This project features a stylish Valentine's-themed letter animation. An envelope
 - **Message Cycling**: Cycle through different heartfelt messages with the "Next" button.
 - **Close Button**: Close the envelope and clear the message with the close button.
 
+## Demo
+
+You can view the live demo here: [Cool Valentine's Letter Demo](https://lbza5.github.io/Cool-Valentine-s-Letter/)
+
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/cool-valentines-letter.git
